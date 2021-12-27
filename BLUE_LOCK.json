@@ -1,16 +1,16 @@
 {
-  "title": "BLUE LOCK",
+  "title": "tokyo revengers",
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "https://cover.nep.li/cover/Blue-Lock.jpg",
+  "cover": "https://uploads.mangadex.org/covers/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/bf9f6dbb-eb12-498f-8f8a-af36eb0f2874.jpg.512.jpg",
   "chapters": {
     "1": {
       "title": "1",
       "volume": "",
-      "last_updated": "1640633546",
+      "last_updated": "1640633665",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/32399b74-72e0-4f71-96b5-17bc4e007d95"
+        "": "/proxy/api/mangadex/chapter/b348a9f9-8821-4739-a874-c1c75c5dd9d1"
       }
     }
   }
